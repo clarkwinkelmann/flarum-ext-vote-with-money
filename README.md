@@ -7,6 +7,7 @@ This is a companion extension to the [Money extension](https://github.com/Antoin
 The extension adds a new kind of polls where users vote with money.
 The amount pledged can be customized and results are sorted by the total money given to each option.
 
+When creating a poll, a new switch is added to turn the poll into a money poll.
 A local or global min/max value can be configured in the poll/extension settings.
 A list of predefined amounts can be configured in the extension settings.
 The user can always choose a custom value if they want.
@@ -38,7 +39,10 @@ You can [contact me](https://clarkwinkelmann.com/flarum) to sponsor additional f
 
 Support is offered on a "best effort" basis through the Flarum community thread.
 
+**Sponsors**: annonny
+
 ## Links
 
 - [GitHub](https://github.com/clarkwinkelmann/flarum-ext-vote-with-money)
 - [Packagist](https://packagist.org/packages/clarkwinkelmann/flarum-ext-vote-with-money)
+- [Discuss](https://discuss.flarum.org/d/32016)
